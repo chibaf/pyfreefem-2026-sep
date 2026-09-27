@@ -4,3 +4,16 @@
 
 PyFreeFEM | pyfreefem 1.1.0 documentation  
 https://pyfreefem.readthedocs.io/en/latest/
+
+<ul>
+  564  pip install pyfreefem --break-system-packages<br>
+  565  python3 simpleplot.py <br>
+  566  vi pyffm1.py<br>
+  567  python3 pyffm1.py<br>
+  568  pip install pyperclip<br>
+  569  pip install pyperclip  --break-system-packages<br>
+  570  python3 pyffm1.py<br>
+  571  vi ex15.edp<br>
+  572  vi ex15_laplace.py<br>
+  573  python3 ex15_laplace.py<br>
+</ul>
